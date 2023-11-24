@@ -73,6 +73,7 @@ body {
   background-color: hsl(300, 43%, 22%);
   width: 310px;
   height: 250px;
+  line-height: 1.5;
 }
 .split img {
   width: 30px;
