@@ -71,6 +71,7 @@ body {
   border-radius: 10px;
   background-color: hsl(300, 43%, 22%);
   width: 310px;
+  height: 250px;
 }
 .split img {
   width: 30px;
@@ -156,6 +157,7 @@ body {
   .buyer {
     width: 400px;
     line-height: 1.5;
+    height: 250px;
   }
   .ratings {
     align-items: flex-end;
